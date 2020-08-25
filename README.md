@@ -3,9 +3,9 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Project Project Rails 6 Parallel System with External Selenium Docker Containers
+# Research Tests with External Selenium Docker Container
 
-![project image](images/project.png)
+![project image](images/research.png)
 
 **About**
 
@@ -16,9 +16,9 @@ Nowadays `Acto Obras` can be already developing along containers. But it still r
 **Refs:**
 
 * [1] [**Rails 6: Parallel system tests with external Selenium Docker containers** in Github](https://github.com/enogrob/project-rails-6-parallel-system-tests-with-external-selenium-docker-containers)
-* [2[Article Homepage](https://vitobotta.com/2019/09/04/rails-parallel-system-tests-selenium-docker/)
-* [3][Docker for Rails Developers](https://pragprog.com/book/ridocker/docker-for-rails-developers)
-* [4][Rails System Tests In Docker](https://hint.io/blog/rails-system-test-docker)
+* [2] [Article Homepage](https://vitobotta.com/2019/09/04/rails-parallel-system-tests-selenium-docker/)
+* [3] [Docker for Rails Developers](https://pragprog.com/book/ridocker/docker-for-rails-developers)
+* [4] [Rails System Tests In Docker](https://hint.io/blog/rails-system-test-docker)
 Learn everything you need to about the subject of this `Project`.
 
 ---
